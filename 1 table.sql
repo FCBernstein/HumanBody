@@ -1,0 +1,6 @@
+USE humanbodydb
+GO
+
+CREATE TABLE dbo.Body(
+    id INT NOT NULL IDENTITY PRIMARY KEY
+)
